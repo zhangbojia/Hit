@@ -1,0 +1,11 @@
+传输测试！Copyright©Zhangbojia/Hit
+传输测试！Copyright©Zhangbojia/Hit
+传输测试！Copyright©Zhangbojia/Hit
+传输测试！Copyright©Zhangbojia/Hit
+传输测试！Copyright©Zhangbojia/Hit
+['randcode':'+128fig+config.sks+33h?+intossh:{
+	'andriod':'store/.andriod/com.vissh.googleplay/intossh.pub'
+	'ios/ios':'$ issue key/store as vissh'
+	'windows':'C:/User/%USERNAME%/.ssh/$.pub'
+	}
+]
